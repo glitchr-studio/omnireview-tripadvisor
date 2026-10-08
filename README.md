@@ -22,4 +22,4 @@ verified in real: no key.**
 [Documentation](docs/index.md): the options, the calls, Tripadvisor's display rules, what was
 verified.
 
-License: LGPL-3.0-or-later.
+License: MIT since 2026-10-09; earlier versions remain published under LGPL-3.0-or-later.
