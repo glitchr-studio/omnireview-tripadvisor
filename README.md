@@ -1,6 +1,6 @@
 # omnireview/tripadvisor
 
-**Tripadvisor** for [glitchr/omnireview](https://github.com/glitchr-studio/omnireview): a
+**Tripadvisor** for [omniscient/omnireview](https://github.com/glitchr-studio/omnireview): a
 location's rating, its bubbles, its number of reviews, up to five reviews and the link to write
 one, through the Tripadvisor Content API.
 

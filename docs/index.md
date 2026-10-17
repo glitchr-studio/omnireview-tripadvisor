@@ -11,7 +11,7 @@ order: 1
 composer require omnireview/tripadvisor
 ```
 
-PHP 8.2 or later, `glitchr/omnireview` and `symfony/http-client`. A Tripadvisor Content API key
+PHP 8.2 or later, `omniscient/omnireview` and `symfony/http-client`. A Tripadvisor Content API key
 (the Tripadvisor Developer portal), restricted to the site's domains or the server's addresses.
 
 ## Options
